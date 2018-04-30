@@ -1,0 +1,16 @@
+dependencies: \
+  /Users/merdoth/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageUtils.m \
+  /Users/merdoth/AwesomeProject/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/merdoth/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
